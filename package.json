@@ -1,5 +1,5 @@
 {
-  "name": "primevue-quickstart",
+  "name": "primevue-issue-template-v3",
   "version": "1.0.0",
   "scripts": {
     "serve": "vue-cli-service serve",
